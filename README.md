@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey, I'm Tristan! (You may also recognize me as Lake)
+# Hey, I'm Tristan! (or Lake)
 
 I am a recent CS graduate and Artist.
 I'm a first generation Asian American and nonbinary (they/them). 
