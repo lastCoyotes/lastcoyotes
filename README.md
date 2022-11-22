@@ -29,7 +29,7 @@ I unfortunately had to graduate sooner with what I had due to the pandemic and f
 
 I have experience in working with embedded systems, robotics, aeronautics, and AI.
 
-Artwise, I graduated with a minor in Studio Arts where I focused in printmaking and painting.
+Artwise, I graduated with a minor in Studio Arts where I focused in printmaking and painting. Working and assisting in the print and painting studios applies to both my STEM and Art process. Collaboration in sharing equipment, when I will handle drying times and planning a mode of action to print the layers in specific technique helped develop a new, creative approach to how I approach system design and building software.
 
 Aside from that though, I know my way around digital art, 3D modeling and all that it may entail (rigging, UV mapping, etc),
 and I apply these skills towards graphic and web design, game design/AI, and visualizing data. 
